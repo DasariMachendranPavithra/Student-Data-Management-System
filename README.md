@@ -2,6 +2,7 @@
 TECH STACK:- HTML,CSS,JS
 
 • You are tasked with building a student management system using HTML, CSS, and JavaScript that allows users to create, read, update, and delete student profiles. You will be provided with an array of student objects, each containing the following properties: ID, name, age, grade, degree, and email.
+
 ⬤ Your task is to build a web page that displays the list of students, provides functionality to create, read, update, and delete student profiles, and allows users to search for specific students by name, email, or degree.
 Problem Statement
 Display the list of students on the page in a visually appealing way, including all properties for each student in the form of a table as shown in the figma.
